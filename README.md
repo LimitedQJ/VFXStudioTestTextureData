@@ -1,0 +1,1 @@
+# VFXStudioTestTextureData
