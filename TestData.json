@@ -623,7 +623,7 @@
             "Other"
         ],
         "Grid": 8,
-        "Resolution": null
+        "Resolution": 1024
     },
     "114069149451436": {
         "Name": "Images/AiTest_82",
@@ -865,7 +865,7 @@
             "Other"
         ],
         "Grid": 8,
-        "Resolution": null
+        "Resolution": 1024
     },
     "129372932863230": {
         "Name": "Images/AiTest_116",
@@ -959,7 +959,7 @@
             "Other"
         ],
         "Grid": 8,
-        "Resolution": null
+        "Resolution": 1024
     },
     "87790026409442": {
         "Name": "Images/AiTest_129",
@@ -1042,6 +1042,7 @@
         ]
     }
 }
+
 
 
 
