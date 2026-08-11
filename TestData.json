@@ -1,3 +1,29 @@
+██╗   ██╗███████╗██╗  ██╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗     ██╗     ██╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗
+██║   ██║██╔════╝╚██╗██╔╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗    ██║     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
+██║   ██║█████╗   ╚███╔╝     ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║    ██║     ██║██████╔╝██████╔╝███████║██████╔╝ ╚████╔╝ 
+╚██╗ ██╔╝██╔══╝   ██╔██╗     ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║    ██║     ██║██╔══██╗██╔══██╗██╔══██║██╔══██╗  ╚██╔╝  
+ ╚████╔╝ ██║     ██╔╝ ██╗    ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝    ███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║   ██║   
+  ╚═══╝  ╚═╝     ╚═╝  ╚═╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝     ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+
+--[[
+VFX Studio Library is proprietary and may not be used by third-party
+developers without a valid license agreement signed with its creator,
+@limited_qj, through Discord.
+
+Without a valid license, you may not use, copy, integrate, redistribute,
+modify, extend, or include this Library or its assets in your own
+plugins, software, libraries, or other products.
+
+A valid license permits the Licensee to use the Library only within
+the scope and conditions defined by the signed license agreement.
+The license does not transfer ownership of the Library or its assets
+and does not permit their use in other products or redistribution
+as an independent or modified asset collection.
+
+To obtain a license, contact @limited_qj on Discord and complete
+the required license agreement before using the Library.
+]]
+
 {
      "91654567538354": {
         "Name": "Images/Test8x8Type_1",
